@@ -14,7 +14,6 @@ nums= input("Input numbers: ").split()
 N_list=list(map(int, nums))
 
 N_list_sorted=sorted(N_list, reverse=True)
-# N_list_sorted
 answer=[]
 for i in N_list:
   index=N_list_sorted.index(i)
