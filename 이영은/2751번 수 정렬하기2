@@ -1,0 +1,15 @@
+import sys
+
+a = int(input())
+num = []
+
+for _ in range(a):
+    num.append(int(sys.stdin.readline()))
+
+num.sort()
+
+for j in num:
+    print(j)
+    
+    
+  # 처음에는 list
