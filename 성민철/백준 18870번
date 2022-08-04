@@ -1,0 +1,28 @@
+a = 5
+b = [2, 4, -10, 4, -9]
+c = 0
+f = 0
+d = []
+for i in range(len(b)):
+    for e in b:
+        if b[i] > e:
+            c += 1
+    d.append(c)
+    c = 0 
+
+print(d)
+
+
+a = 6
+b = [1000, 999, 1000, 999, 1000, 999]
+c =0
+f = 0
+d =[]
+for i in range(len(b)):
+    for e in b:
+        if b[i] > e:
+            c += 1
+    d.append(c)
+    c = 0 
+
+print(d)
