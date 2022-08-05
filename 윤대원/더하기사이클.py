@@ -14,8 +14,8 @@ while True:
     a=num//10
     b=num%10
     c=(a+b)%10
-    d=(b*10)+c
+    num=(b*10)+c
     count=count+1
-    if d==n:
+    if num==n:
         break
 print(count)
