@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1H-sBjqZn14L-UjfdqzPLZS4_s2L6U7Hk
 """
 
-n=int(input())
+n=int(input()) #변수 조심
 num=n
 count=0
 while True:
