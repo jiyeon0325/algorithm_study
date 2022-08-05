@@ -1,0 +1,14 @@
+Hour, Minute = map(int(input(),split())
+if Minute < 45 :
+    if Hour == 0:
+        print(23, Minute + 15)
+    else:
+        print(Hour - 1, Minute + 15)
+else:
+    print(Hour, Minute + 15)
+
+#더하기 사이클
+for N in range (0,100):
+    if N < 10:
+뒷자리 추출: n%10
+앞자리 추출 : n//10
