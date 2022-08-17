@@ -1,0 +1,13 @@
+algorithm_study
+포스코 청년 AI, BigData 아카데미 C반 알고리즘 스터디
+
+BOJ 단계별로 풀어보기
+번호	문제	체크	level	분류
+1	18870 좌표압축	✅	S2	정렬
+2	1260 DFS와 BFS	⬜	S2	DFS/BFS
+3	7576 토마토	⬜	G5	DFS/BFS
+4	7569 토마토2	⬜	G5	DFS/BFS
+5				
+문제 체크 테이블 개인 폴더 내 readme.md 에 복붙해주세요
+나머지 문제는 알아서 만들기
+푼 문제는 체크!
