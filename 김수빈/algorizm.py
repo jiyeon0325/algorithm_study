@@ -27,11 +27,6 @@ print(h,m)
     
 
 
-# In[ ]:
-
-
-set_ = int(input())
-
 
 
 
